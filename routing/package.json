@@ -1,0 +1,16 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "practice",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "4.14.0",
+    "forecastio": "1.0.2",
+    "zippity-do-dah": "0.0.x"
+  },
+  "author": "stefanushinardi",
+  "license": "ISC"
+}

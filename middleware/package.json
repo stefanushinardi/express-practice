@@ -1,0 +1,15 @@
+{
+  "name": "static-file-fun",
+  "version": "1.0.0",
+  "description": "practice app",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.14.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "author": "stefanushinardi",
+  "license": "ISC"
+}
